@@ -22,7 +22,7 @@ class WPSEO_Config_Field_Company_Name extends WPSEO_Config_Field {
 	}
 
 	/**
-	 * Set adapter.
+	 * Sets the adapter.
 	 *
 	 * @param WPSEO_Configuration_Options_Adapter $adapter Adapter to register lookup on.
 	 */

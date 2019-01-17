@@ -17,7 +17,7 @@ use Yoast\WP\Free\Watchers\Indexable_Post_Watcher;
 class No_Indexable_Found_Test extends \PHPUnit_Framework_TestCase {
 
 	/**
-	 * Set up the test fixtures for each test.
+	 * Sets up the test fixtures for each test.
 	 */
 	public function setUp() {
 
@@ -36,7 +36,7 @@ class No_Indexable_Found_Test extends \PHPUnit_Framework_TestCase {
 	}
 
 	/**
-	 * Clean up after each test.
+	 * Cleans up after each test.
 	 */
 	public function tearDown() {
 		parent::tearDown();
